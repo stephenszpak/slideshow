@@ -1,0 +1,18 @@
+body {
+  background-color: #ccc;
+}
+
+.slider {
+	text-align: center;
+	padding-right: 300px;
+}
+
+.slider img {
+	position: absolute;
+    width:  400px;
+    height: 400px;
+}
+
+.active {
+	z-index: 99;
+}
